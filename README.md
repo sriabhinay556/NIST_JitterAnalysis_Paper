@@ -1,6 +1,6 @@
 Problem Statement: 
 
-The project problem is to perform statistical, comparative, and software benchmarking analysis on version 3.6.1 of the jitter entropy library created by Stephan Mueller. This library uses CPU timing jitter to provide a non-physical true random number generator (NPTRNG) that can be leveraged by modern CPUs.
+The project's problem is to perform statistical, comparative, and software benchmarking analysis on version 3.6.1 of the jitter entropy library created by Stephan Mueller. This library uses CPU timing jitter to provide a non-physical true random number generator (NPTRNG) that can be leveraged by modern CPUs.
 
 My responsibilites:
 
